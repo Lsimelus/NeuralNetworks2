@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Network
+comment0.text=\n\ Write\ a\ description\ of\ class\ Network\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=twobooks
+comment1.target=Network(java.util.ArrayList)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Network\n
+comment2.params=
+comment2.target=void\ Train()
+comment3.params=sum\ target
+comment3.target=java.lang.Double\ perceptron(java.lang.Double,\ java.lang.Double)
+comment4.params=
+comment4.target=java.lang.Double\ Test()
+numComments=5
